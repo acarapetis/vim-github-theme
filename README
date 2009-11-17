@@ -1,0 +1,12 @@
+Github syntax highlighting theme for gvim
+
+Screenshot: http://i.imgur.com/LJXdy.png 
+Diffsplit screenshot: http://i.imgur.com/RKtVD.png 
+
+This is a port of github's lovely light-background syntax highlighting theme.  I tried to make it as comprehensive as possible; it should look good with: 
+- Completion menus 
+- Diffsplit 
+- STL highlighting 
+
+It's not an exact replica (don't expect it to highlight exactly the same
+code elements in the same colours), but it's pretty close - enjoy!
